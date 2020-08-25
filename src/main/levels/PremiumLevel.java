@@ -9,7 +9,7 @@ public class PremiumLevel implements CustomerLevel {
      * Send this Order to the OrderManager.
      */
     public void send(Order order) {
-            OrderManager.receiveOrder(order);
+            OrderManager.getInstance().receiveOrder(order);
     }
 
     /**

@@ -1,5 +1,8 @@
 
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ8‹Ø¤øŠ.
-isquid:S2184"FCast one of the operands of this multiplication operation to a "long".(Şàà·şÿÿÿÿ8–â¸øŠ.
-dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ĞÃ£øŠ.
+h
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(Şàà·şÿÿÿÿ8ô¦…Â.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ô¦…Â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ8ô¦…Â.
+V
+java:S3400"9Remove this method and declare a constant for this value.(¾ŸŞ˜8à «‚Â.

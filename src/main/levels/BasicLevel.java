@@ -11,7 +11,7 @@ public class BasicLevel implements CustomerLevel {
     public void send(Order order) {
         try {
             Thread.sleep(5 * 1000);
-            OrderManager.receiveOrder(order);
+            OrderManager.getInstance().receiveOrder(order);
         } catch (InterruptedException e) {
             System.err.println(e);
         }
